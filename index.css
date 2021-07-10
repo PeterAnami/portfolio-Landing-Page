@@ -1,11 +1,17 @@
 *{
-  margin: 0px;
-  padding: 5px;
+  margin: 5px;
+  padding: 0px
+
+}
+body{
+  background-color: rgb(219, 188, 188);
+  font-size: 18px;
+  font-family: 'Karla', sans-serif;
 }
 .header{
 background-image: url(images/bg.png);
 min-height: 100vh;
 background-repeat: no-repeat;
 background-position: right;
-background-color: rgb(219, 188, 188);
+
 }
