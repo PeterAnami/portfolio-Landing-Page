@@ -4,7 +4,7 @@
 
 }
 body{
-  background-color: rgb(219, 188, 188);
+  background-color: rgb(195, 218, 216);
   font-size: 18px;
   font-family: 'Karla', sans-serif;
   justify-content: space-between;
@@ -21,9 +21,8 @@ background-position: right;
   text-align: center;
   font-size: 50px;
   background-color: crimson;
-  
-  
-}
+
+  }
 #index{
   color: crimson;
   font-size: 30px;
@@ -31,7 +30,21 @@ background-position: right;
 nav a{
   text-decoration: none;
   padding: 5px;
-  margin: 2px;
+  margin-left: 30%;
   border: 2px solid white;
   background-color: crimson;
+  border-radius: 10%;
+ 
+}
+.about{
+  margin-left: 30%;
+  margin-top: 10%;
+}
+.about a{
+  text-decoration: none;
+  padding: 2px;
+  margin: 2px;
+  border: 2px solid blue;
+  background-color: red;
+  border-radius: 10%;
 }
